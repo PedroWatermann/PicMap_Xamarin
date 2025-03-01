@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\bin\Debug\netstandard2.0\PicMap.deps.json
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\bin\Debug\netstandard2.0\PicMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\bin\Debug\netstandard2.0\PicMap.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\refint\PicMap.dll
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\PicMap.pdb
+C:\Users\Aluno\source\repos\PedroWatermann\PicMap_Xamarin\PicMap\PicMap\obj\Debug\netstandard2.0\ref\PicMap.dll

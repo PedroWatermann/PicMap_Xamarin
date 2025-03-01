@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/PNODk/hCBR/gI9kxtcMYSETEzytPNlh3LPCJlIyHbMwasOjicwOtY/7mbWmBkEtVcsl9GdTVnS3ui6AE+CoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\PedroWatermann\\PicMap_Xamarin\\PicMap\\PicMap\\PicMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

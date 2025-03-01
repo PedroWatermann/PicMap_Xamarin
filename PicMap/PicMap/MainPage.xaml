@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PicMap.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Image Source="Picture"
+               HeightRequest="100"/>
+            <Frame BackgroundColor="#673AB7" 
+                   Padding="24" 
+                   CornerRadius="0"
+                   HorizontalOptions="FillAndExpand">
+                <Label Text="PicMap" 
+                       HorizontalTextAlignment="Center" 
+                       TextColor="White" 
+                       FontSize="36"
+                       FontAttributes="Bold"/>
+            </Frame>
+        </StackLayout>
+
+        <StackLayout VerticalOptions="FillAndExpand"
+                     Padding="8">
+            <Button Text="Tirar Foto"
+                    VerticalOptions="Start"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    HeightRequest="60"
+                    CornerRadius="20"
+                    
+                    x:Name="btnFoto"
+                    Clicked="btnFoto_Clicked"/>
+
+            <Image x:Name="imgFoto"
+                   VerticalOptions="CenterAndExpand"
+                   BackgroundColor="DimGray"
+                   HeightRequest="400"/>
+
+            <Button Text="Ver no Mapa"
+                    VerticalOptions="CenterAndExpand"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    HeightRequest="60"
+                    CornerRadius="20"
+                    
+                    x:Name="btnMapa"
+                    Clicked="btnMapa_Clicked"/>
+
+            <Button Text="Sair"
+                    VerticalOptions="End"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                    HeightRequest="60"
+                    CornerRadius="20"
+                    
+                    x:Name="btnSair"
+                    Clicked="btnSair_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
